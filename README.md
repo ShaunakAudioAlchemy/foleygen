@@ -28,5 +28,11 @@ In order to run the project in Google Colab, download the repository and upload 
 5) Training the GPT-2 model
 6) Generating audio files by category
 
-# Using the checkpoint
+# Results
+
+FAD Scores:
+
+<img width="532" alt="Screenshot 2024-12-02 at 9 01 23 PM" src="https://github.com/user-attachments/assets/a5746b3e-700d-44ed-b720-5285ef7bf9fb">
+
+
 
