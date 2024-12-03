@@ -11,11 +11,11 @@ The dataset consists of a total of 5,496 audio files in 7 categories, and is sou
 
 If using conda:
 
-conda env create -f environment.yml
+`conda env create -f environment.yml` 
 
 If using pip:
 
-pip install -r requirements.txt
+`pip install -r requirements.txt`
 
 # Execution
 
