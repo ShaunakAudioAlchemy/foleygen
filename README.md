@@ -28,6 +28,8 @@ In order to run the project in Google Colab, download the repository and upload 
 5) Training the GPT-2 model
 6) Generating audio files by category
 
+In order to use the last saved checkpoint for the project (300 Epochs), download the file from here: https://drive.google.com/file/d/1r1LYawsvGY_xSmvNjsz77NTgcT8UndBt/view?usp=sharing
+
 # Results
 
 Below are the FAD scores for the generated audio (using VGGish model embeddings). The generated audio files are within the 'synthesized' folder of the repository
