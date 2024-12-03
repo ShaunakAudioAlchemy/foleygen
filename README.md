@@ -37,7 +37,7 @@ Below are the FAD scores for the generated audio (using VGGish model embeddings)
 <img width="532" alt="Screenshot 2024-12-02 at 9 01 23 PM" src="https://github.com/user-attachments/assets/a5746b3e-700d-44ed-b720-5285ef7bf9fb">
 
 # References:
-This project was inspired by https://github.com/mrpep/encodecgpt, where EnCodec, Masked Autoencoder and GPT-2 for music generation. For my project, I've implemented Foley Audio generation using `audiomentations` for data augmentation, EnCodec and a pre-trained GPT-2
+This project was inspired by https://github.com/mrpep/encodecgpt, where EnCodec, Masked Autoencoder and GPT-2 were used for music generation. For my project, I've implemented Foley Audio generation using `audiomentations` for data augmentation, EnCodec and a pre-trained GPT-2
 
 
 
