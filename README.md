@@ -34,5 +34,8 @@ FAD Scores:
 
 <img width="532" alt="Screenshot 2024-12-02 at 9 01 23 PM" src="https://github.com/user-attachments/assets/a5746b3e-700d-44ed-b720-5285ef7bf9fb">
 
+# References:
+EnCodec: A state-of-the-art high fidelity neural audio codec.
+
 
 
