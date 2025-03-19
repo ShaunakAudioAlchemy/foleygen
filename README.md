@@ -33,8 +33,8 @@ In order to use the last saved checkpoint for generating audio (300 Epochs), dow
 # Results
 
 Below are the FAD scores for the generated audio (using VGGish model embeddings). The generated audio files are within the 'synthesized' folder of the repository
+<img width="497" alt="Screenshot 2025-03-19 at 6 51 23 PM" src="https://github.com/user-attachments/assets/668bcbc4-03a9-4f86-9531-ecb9dd1ef54e" />
 
-<img width="532" alt="Screenshot 2024-12-02 at 9 01 23 PM" src="https://github.com/user-attachments/assets/a5746b3e-700d-44ed-b720-5285ef7bf9fb">
 
 # References:
 This project was inspired by https://github.com/mrpep/encodecgpt, where EnCodec, Masked Autoencoder and GPT-2 were used for music generation. For my project, I've implemented Foley Audio generation using `audiomentations` for data augmentation, EnCodec and a pre-trained GPT-2
